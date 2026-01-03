@@ -3,4 +3,4 @@ As of the 4th of January 2026, as part of the midterm submission for WiDS 2025, 
 2. trigrams, testing, regularization and project idea of a "noisy morse denoiser" using the same logic learnt in week 2
 3. Fine tuning hyperparameters and batchnorm as part of week 3
    --- assignments to be submitted for midterm --- 
-4. Started week 4, completed 4a, manual backpropagation, currently going to start makemore - part 5
+4. Started week 4, completed 4a, manual backpropagation, currently going to start makemore - part 5 
